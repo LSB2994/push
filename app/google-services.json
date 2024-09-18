@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241174251846",
+    "project_id": "lsb7-7a733",
+    "storage_bucket": "lsb7-7a733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241174251846:android:09de2339f6ecf277b1fd47",
+        "android_client_info": {
+          "package_name": "com.example.hiltanddanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBij6X9xqRJB9KdrwuGGFovgXmU2fdlSws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
